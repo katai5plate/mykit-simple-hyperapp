@@ -3,7 +3,9 @@ module.exports = () =>
     __dirname,
     [{ src: ".babelrc" }, { src: "index.html" }, { src: "index.jsx" }],
     {
-      start: "parcel index.html",
-      "mykit-install": "yarn add hyperapp && yarn add -D parcel-bundler"
+      scripts: {
+        start: "parcel index.html",
+        "mykit-install": "yarn add hyperapp && yarn add -D parcel-bundler"
+      }
     }
   );
