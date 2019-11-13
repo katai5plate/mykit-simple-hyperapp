@@ -1,4 +1,6 @@
 # mykit-simple-hyperapp
+- なぜか動かない（調査中）
+
 環境構築キット: Hyperapp +parcel 簡易実行環境
 
 ```
