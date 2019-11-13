@@ -1,0 +1,8 @@
+{
+  "name": "mykit-simple-hyperapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/katai5plate/mykit-simple-hyperapp",
+  "author": "katai5plate <katai5plate.sub@gmail.com>",
+  "license": "MIT"
+}

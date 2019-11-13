@@ -1,0 +1,4 @@
+{
+  "start": "parcel index.html",
+  "mykit-install": "yarn add hyperapp && yarn add -D parcel-bundler"
+}
